@@ -1,7 +1,0 @@
-com/leet2hub/LeetCodeUploader.class
-com/leet2hub/config/ConfigurationManager.class
-com/leet2hub/service/LeetCodeMonitorService.class
-com/leet2hub/model/Submission.class
-com/leet2hub/service/GitHubService.class
-com/leet2hub/service/GitHubService$CreateFileRequest.class
-com/leet2hub/service/GitHubService$UpdateFileRequest.class
