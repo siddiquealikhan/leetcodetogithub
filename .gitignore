@@ -1,0 +1,26 @@
+# Ignore compiled Java classes
+*.class
+
+# Maven target directory
+/target/
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Logs
+logs/
+*.log
+
+# OS-specific files
+.DS_Store
+
+# Ignore config containing secrets
+config.properties
+
+# Backup files
+*.swp
+*.bak
+*.tmp
+
+
